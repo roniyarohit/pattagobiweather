@@ -1,4 +1,5 @@
-# pattagobiweather
+# weather 
+# live link - https://roniyarohit.github.io/pattagobiweather/
 # Overview
 This is a simple and user-friendly weather web application that allows users to check the current weather conditions of any location. The application is built using HTML, CSS, and JavaScript, and it leverages a weather API to fetch real-time weather data.
 
